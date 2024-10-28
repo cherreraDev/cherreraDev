@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 👋 About Me
+
+I'm a backend web developer passionate about creating scalable, maintainable, and high-quality solutions. My focus is on leveraging best practices like **clean code**, **low coupling**, and **clean architecture** to build robust, efficient systems. I’m driven by a commitment to code that is easy to maintain and architected for scalability, ensuring long-term value for any project.
+
+
 ### 🛠 Tech Stack
 
 | **Backend**                          | **Frontend**                             | **DevOps**                                | **Databases**                     |
