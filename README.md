@@ -40,7 +40,7 @@ I'm a backend web developer passionate about creating scalable, maintainable, an
       <br>Python
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
       <br>JavaScript
     </td>
     <td align="center" width="90">
@@ -53,8 +53,8 @@ I'm a backend web developer passionate about creating scalable, maintainable, an
     </td>
   </tr>
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
       <br>React
     </td>
     <td align="center" width="90">
@@ -66,34 +66,26 @@ I'm a backend web developer passionate about creating scalable, maintainable, an
       <br>Zustand
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/php-icon.svg" width="45" height="45" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
       <br>MySQL
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/oracle-icon.svg" width="45" height="45" alt="Oracle" />
-      <br>Oracle
-    </td>
+  <img src="https://techstack-generator.vercel.app/oracle-icon.svg" width="45" height="45" alt="Oracle" />
+  <br>Oracle
+</td>
   </tr>
   <tr>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
+      <br>Linux
+    </td> 
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
       <br>Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
-      <br>GitHub
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" />
@@ -104,13 +96,13 @@ I'm a backend web developer passionate about creating scalable, maintainable, an
       <br>Kafka
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/consul-icon.svg" width="45" height="45" alt="Consul" />
-      <br>Consul
-    </td>
+  <img src="https://raw.githubusercontent.com/hashicorp/consul/master/website/static/img/consul_logo.svg" width="45" height="45" alt="Consul" />
+  <br>Consul
+</td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=gin" width="45" height="45" alt="Gin" />
-      <br>Gin
-    </td>
+  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color/logo.svg" width="45" height="45" alt="Gin" />
+  <br>Gin
+</td>
   </tr>
 </table>
 
