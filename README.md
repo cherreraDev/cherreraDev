@@ -27,18 +27,22 @@ I'm a backend web developer passionate about creating scalable, maintainable, an
       <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
       <br>Go
     </td>
+     <td align="center" width="90">
+  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" width="45" height="45" alt="Gin" />
+  <br>Gin
+</td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45" alt="Java" />
       <br>Java
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Spring" />
       <br>Spring
     </td>
-    <td align="center" width="90">
+    <!--<td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
       <br>Python
-    </td>
+    </td>-->
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
       <br>JavaScript
@@ -47,12 +51,12 @@ I'm a backend web developer passionate about creating scalable, maintainable, an
       <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
       <br>HTML
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" />
       <br>CSS
     </td>
-  </tr>
-  <tr>
      <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
       <br>React
@@ -73,12 +77,13 @@ I'm a backend web developer passionate about creating scalable, maintainable, an
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
       <br>MySQL
     </td>
-    <td align="center" width="90">
-  <img src="https://techstack-generator.vercel.app/oracle-icon.svg" width="45" height="45" alt="Oracle" />
-  <br>Oracle
-</td>
+    
   </tr>
   <tr>
+    <td align="center" width="90">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" width="45" height="45" alt="Oracle" />
+  <br>Oracle
+</td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
       <br>Linux
@@ -88,7 +93,7 @@ I'm a backend web developer passionate about creating scalable, maintainable, an
       <br>Git
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" alt="Docker" />
       <br>Docker
     </td>
     <td align="center" width="90">
@@ -96,12 +101,8 @@ I'm a backend web developer passionate about creating scalable, maintainable, an
       <br>Kafka
     </td>
     <td align="center" width="90">
-  <img src="https://raw.githubusercontent.com/hashicorp/consul/master/website/static/img/consul_logo.svg" width="45" height="45" alt="Consul" />
+  <img src="https://img.shields.io/badge/Consul-F24C53?style=for-the-badge&logo=consul&logoColor=white" width="45" height="45" alt="Consul" />
   <br>Consul
-</td>
-    <td align="center" width="90">
-  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color/logo.svg" width="45" height="45" alt="Gin" />
-  <br>Gin
 </td>
   </tr>
 </table>
