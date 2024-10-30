@@ -108,6 +108,12 @@ I'm a backend web developer passionate about creating scalable, maintainable, an
 </table>
 
 
+### CodeWars
+
+![Codewars](https://www.codewars.com/users/cherreraDev/badges/large)
+
+
+
 
 
 
